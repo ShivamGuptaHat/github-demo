@@ -1,3 +1,3 @@
 App name: Snapdeal
-Dev name: Mandeep and Tarun
+Dev name: who going to build this, is not decided yet
 Purpose:  writing boom baam conflicting line in common.txt
