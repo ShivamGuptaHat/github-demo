@@ -1,3 +1,2 @@
-App name: bbbbbbbb
-Dev name: who going to build this, is not decided yet
-Purpose:  writing boom baam conflicting line in common.txt
+first 
+second
